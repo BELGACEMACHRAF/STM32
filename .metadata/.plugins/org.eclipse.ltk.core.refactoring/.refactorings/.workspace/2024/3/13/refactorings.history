@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Encodeur/Core/Inc/Angle&apos;" deleteContents="false" description="Delete resource &apos;Encodeur/Core/Inc/Angle&apos;" element1="/Encodeur/Core/Inc/Angle" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1711702505148"/>
+</session>

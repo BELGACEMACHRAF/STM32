@@ -1,0 +1,5 @@
+../Core/Src/main.c:68:5:main	1
+../Core/Src/main.c:125:6:activate_BITE	1
+../Core/Src/main.c:136:6:activate_TARE	3
+../Core/Src/main.c:169:6:SystemClock_Config	3
+../Core/Src/main.c:219:6:Error_Handler	1

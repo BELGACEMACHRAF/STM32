@@ -1,0 +1,579 @@
+2024-03-13 01:50:23,185 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 01:50:23,210 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 01:50:23,415 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 01:50:23,415 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 01:50:23,415 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 01:50:23,416 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 01:50:23,416 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 01:50:23,416 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 01:50:23,417 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 01:50:23,419 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 01:50:23,419 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 01:50:24,135 [INFO] WebAppUi:1056 - Web application message: Token has expired
+2024-03-13 01:50:24,138 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 01:50:25,237 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 01:50:25,243 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 01:50:25,266 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 01:50:25,296 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 01:50:25,299 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 08:55:51,710 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 08:55:51,712 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 08:55:51,717 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 08:55:51,737 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 08:55:51,740 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 08:55:51,740 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 08:55:51,743 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 08:55:51,743 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 08:55:51,743 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 08:55:51,752 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 08:55:51,756 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 08:55:51,757 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 08:55:51,952 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 08:55:51,975 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 08:55:57,341 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 08:55:57,343 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 08:55:57,348 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 08:56:00,364 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 08:56:00,364 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 08:56:00,381 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 08:56:00,382 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:00:23,571 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,590 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,590 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,590 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,590 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,591 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,591 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,591 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,591 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:23,813 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,046 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,047 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,049 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,050 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,050 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,050 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,050 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,050 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:00:24,189 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-13 09:02:34,427 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:02:34,430 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:02:34,430 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:02:34,432 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 09:02:34,432 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 09:02:34,432 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 09:02:34,432 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 09:02:34,432 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 09:02:34,432 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 09:02:34,433 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 09:02:34,435 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 09:02:34,435 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 09:02:34,435 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 09:02:34,440 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:02:37,662 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:02:37,663 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 09:02:37,665 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:02:37,684 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:02:37,684 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:02:37,687 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:02:37,689 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:03:17,708 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:03:17,710 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:03:17,712 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:03:17,715 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 09:03:17,715 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 09:03:17,715 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 09:03:17,715 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 09:03:17,715 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 09:03:17,715 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 09:03:17,716 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 09:03:17,720 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 09:03:17,721 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 09:03:17,721 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 09:03:17,725 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:03:20,157 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:03:20,158 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 09:03:20,163 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:03:21,994 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:03:21,994 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:03:22,134 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:03:22,136 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:04:58,648 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:04:58,650 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:04:58,654 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:04:58,655 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 09:04:58,655 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 09:04:58,655 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 09:04:58,656 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 09:04:58,656 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 09:04:58,656 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 09:04:58,657 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 09:04:58,658 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 09:04:58,658 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 09:04:58,659 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 09:04:58,666 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:05:00,736 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:05:00,738 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 09:05:00,749 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:05:02,655 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:05:02,656 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:05:17,736 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:05:17,738 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:05:30,908 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:05:30,908 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:05:30,914 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:05:30,916 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 09:05:30,916 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 09:05:30,916 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 09:05:30,916 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 09:05:30,917 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 09:05:30,917 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 09:05:30,919 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 09:05:30,919 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 09:05:30,919 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 09:05:30,919 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 09:05:30,923 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:05:34,283 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:05:34,298 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 09:05:34,306 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:05:34,316 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:05:34,316 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:05:34,318 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:05:34,319 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:07:42,276 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:07:42,277 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:07:42,277 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:07:42,278 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 09:07:42,278 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 09:07:42,278 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 09:07:42,278 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 09:07:42,278 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 09:07:42,278 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 09:07:42,281 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 09:07:42,282 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 09:07:42,282 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 09:07:42,282 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 09:07:42,289 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:07:44,665 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:07:44,666 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 09:07:44,668 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:07:45,647 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:07:45,648 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:07:45,670 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:07:45,673 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:11:40,609 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:11:40,609 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:11:40,616 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 09:11:40,616 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 09:11:40,616 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 09:11:40,616 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 09:11:40,616 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 09:11:40,616 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 09:11:40,616 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 09:11:40,620 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 09:11:40,622 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 09:11:40,622 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 09:11:40,622 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 09:11:40,626 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 09:11:42,668 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:11:42,669 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 09:11:42,672 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 09:11:42,758 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:11:42,758 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 09:11:42,855 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 09:11:42,856 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 10:41:12,972 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 10:41:13,025 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 10:41:13,046 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 10:41:13,055 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 10:41:13,056 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 10:41:13,056 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 10:41:13,056 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 10:41:13,056 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 10:41:13,056 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 10:41:13,063 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 10:41:13,067 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 10:41:13,067 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 10:41:13,069 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 10:41:13,078 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 10:41:15,165 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 10:41:15,166 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 10:41:15,170 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 10:41:28,320 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 10:41:28,324 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 10:41:28,958 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 10:41:28,958 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 11:17:30,939 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 11:17:30,941 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 11:17:30,942 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 11:17:30,944 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 11:17:30,944 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 11:17:30,944 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 11:17:30,946 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 11:17:30,946 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 11:17:30,946 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 11:17:30,954 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 11:17:30,956 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 11:17:30,956 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 11:17:30,957 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 11:17:30,961 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 11:17:33,136 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 11:17:33,140 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 11:17:33,147 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 11:17:34,232 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 11:17:34,234 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 11:17:34,240 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 11:17:34,241 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 12:38:48,300 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 590436304 Bytes (835715072)
+2024-03-13 12:38:50,558 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 625553400 Bytes (835715072)
+2024-03-13 12:38:54,820 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 330089152 Bytes (835715072)
+2024-03-13 12:39:02,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-03-13 12:39:02,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-13 12:39:02,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-03-13 12:39:02,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-13 12:39:02,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-13 12:39:02,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2024-03-13 12:39:02,065 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-13 12:39:02,068 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-03-13 12:39:02,292 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\license.tmp_save
+2024-03-13 12:39:02,432 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\license.tmp
+2024-03-13 12:39:02,499 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\gpio.tmp_save
+2024-03-13 12:39:02,635 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\gpio.tmp
+2024-03-13 12:39:02,815 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-13 12:39:02,836 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_inc.tmp_save
+2024-03-13 12:39:02,948 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_inc.tmp
+2024-03-13 12:39:02,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_vars.tmp_save
+2024-03-13 12:39:03,080 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_vars.tmp
+2024-03-13 12:39:03,100 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_pfp.tmp_save
+2024-03-13 12:39:03,197 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_pfp.tmp
+2024-03-13 12:39:03,210 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-03-13 12:39:03,304 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_obj_creat.tmp
+2024-03-13 12:39:03,314 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-03-13 12:39:03,392 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_kernelStart.tmp
+2024-03-13 12:39:03,407 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_default_thread.tmp_save
+2024-03-13 12:39:03,500 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_default_thread.tmp
+2024-03-13 12:39:03,516 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_threads.tmp_save
+2024-03-13 12:39:03,576 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_threads.tmp
+2024-03-13 12:39:03,583 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-13 12:39:03,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_inc.tmp_save
+2024-03-13 12:39:03,698 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_inc.tmp
+2024-03-13 12:39:03,702 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_vars.tmp_save
+2024-03-13 12:39:03,757 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_vars.tmp
+2024-03-13 12:39:03,763 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_pfp.tmp_save
+2024-03-13 12:39:03,812 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_pfp.tmp
+2024-03-13 12:39:03,836 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-03-13 12:39:03,889 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_obj_creat.tmp
+2024-03-13 12:39:03,894 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-03-13 12:39:03,945 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_kernelStart.tmp
+2024-03-13 12:39:03,950 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_default_thread.tmp_save
+2024-03-13 12:39:04,005 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_default_thread.tmp
+2024-03-13 12:39:04,014 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_threads.tmp_save
+2024-03-13 12:39:04,061 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\rtos_threads.tmp
+2024-03-13 12:39:04,078 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\FreeRTOSConfig.h_save
+2024-03-13 12:39:04,210 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\FreeRTOSConfig.h
+2024-03-13 12:39:04,222 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\freertos.c_save
+2024-03-13 12:39:04,545 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\freertos.c
+2024-03-13 12:39:04,565 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\cortex.tmp_save
+2024-03-13 12:39:04,686 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\cortex.tmp
+2024-03-13 12:39:04,733 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\stm32f7xx_it.c_save
+2024-03-13 12:39:05,037 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\stm32f7xx_it.c
+2024-03-13 12:39:05,077 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\stm32f7xx_it.h_save
+2024-03-13 12:39:05,201 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\stm32f7xx_it.h
+2024-03-13 12:39:05,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\stm32f7xx_hal_msp.c_save
+2024-03-13 12:39:05,392 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\stm32f7xx_hal_msp.c
+2024-03-13 12:39:05,410 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\system.tmp_save
+2024-03-13 12:39:05,511 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\MXTmpFiles\system.tmp
+2024-03-13 12:39:05,558 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\stm32f7xx_hal_conf.h_save
+2024-03-13 12:39:05,691 [INFO] CodeEngine:335 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\stm32f7xx_hal_conf.h
+2024-03-13 12:39:05,780 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\main.h_save
+2024-03-13 12:39:05,909 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Inc\main.h
+2024-03-13 12:39:05,938 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\main.c_save
+2024-03-13 12:39:06,085 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\Core\Src\main.c
+2024-03-13 12:39:06,732 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 235mS.
+2024-03-13 12:39:06,737 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-03-13 12:39:06,907 [INFO] ConfigFileManager:1495 - The Die is : DIE449
+2024-03-13 12:39:09,660 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2923mS.
+2024-03-13 12:39:09,661 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-13 12:39:09,667 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-13 14:05:36,547 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 14:05:36,616 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 14:05:36,659 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-13 14:05:36,709 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-13 14:05:36,712 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-13 14:05:36,712 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-13 14:05:36,712 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-13 14:05:36,712 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-13 14:05:36,712 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-13 14:05:36,743 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-13 14:05:36,747 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-13 14:05:36,747 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-13 14:05:36,748 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-13 14:05:36,756 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-13 14:05:37,323 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 14:05:37,324 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-13 14:05:37,336 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-13 14:05:38,655 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 14:05:38,655 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 14:05:38,687 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-13 14:05:38,687 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-13 14:16:40,692 [INFO] MainUpdater:2873 - connection check result : 10
+2024-03-13 14:16:40,695 [INFO] MainUpdater:2873 - connection check result : 10
+2024-03-13 14:16:40,919 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-03-13 14:16:40,920 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-03-13 14:16:40,963 [ERROR] ProjectManagerView:394 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$10.caretUpdate(ProjectChoiceTab.java:2493) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:412) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4491) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4513) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:842) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1313) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1212) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1193) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1789) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:226) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:780) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:739) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:698) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1729) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:933) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3426) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1813) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:533) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:244) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:391) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:900) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:776) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:245) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:290) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:247) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1184) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1065) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2024-03-13 14:16:40,967 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-03-13 14:16:40,967 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-03-13 14:16:40,968 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-03-13 14:16:40,976 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-13 14:16:40,996 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-03-13 14:16:41,009 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-03-13 14:16:41,012 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 610556296 Bytes (958398464)
+2024-03-13 14:16:41,013 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-03-13 14:16:41,013 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-03-13 14:16:41,013 [INFO] OpenFileManager:312 - Change cursor
+2024-03-13 14:16:41,047 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-03-13 14:16:41,065 [INFO] Mcu:2016 - Initializing MCU STM32F746NGHx STM32F746NGHx STM32F746NGH6
+2024-03-13 14:16:43,338 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-03-13 14:16:43,685 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-03-13 14:16:43,685 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-03-13 14:16:43,685 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-03-13 14:16:43,685 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-03-13 14:16:43,685 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,692 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-13 14:16:43,701 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-03-13 14:16:43,741 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-03-13 14:16:44,061 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 805400176 Bytes (958398464)
+2024-03-13 14:16:44,110 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-03-13 14:16:44,110 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-03-13 14:16:44,112 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-03-13 14:16:44,112 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.6
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-03-13 14:16:44,112 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-03-13 14:16:44,349 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-13 14:16:44,351 [INFO] PinOutPanel:1499 - setPackage(STM32F746NGHx,TFBGA216)
+2024-03-13 14:16:44,734 [INFO] UtilMem:75 - Before build in PCC Used Memory: 575905336 Bytes (958398464)
+2024-03-13 14:16:44,966 [INFO] UtilMem:75 - After build in PCC Used Memory: 623381600 Bytes (958398464)
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,994 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,995 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,996 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,997 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,997 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,997 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,997 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,997 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,997 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,998 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,998 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,998 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,998 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,998 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,999 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,999 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,999 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,999 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,999 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,999 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:44,999 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,000 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,000 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,000 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,000 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,000 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,001 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,001 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,001 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,001 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,002 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,003 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,004 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,004 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,006 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,006 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,006 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,007 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,007 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,008 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,008 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,009 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,010 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,010 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,011 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-13 14:16:45,032 [INFO] ApiDbMcu:508 - Load IP Config File for PDM2PCM
+2024-03-13 14:16:45,058 [INFO] CADModel:165 - CPN selected for project levelSTM32F746NGH6
+2024-03-13 14:16:45,058 [INFO] CADModel:114 - Register for checkConnection events
+2024-03-13 14:16:45,112 [INFO] OpenFileManager:343 - Restore cursor

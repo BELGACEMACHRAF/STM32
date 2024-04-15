@@ -1,0 +1,39 @@
+14:24:48 **** Incremental Build of configuration Debug for project new ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F746xx -c -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1 -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+In file included from ../Core/Src/main.c:21:
+../Core/Src/main.c: In function 'main':
+../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h:416:10: warning: initialization of 'void (*)(const void *)' from incompatible pointer type 'char *' [-Wincompatible-pointer-types]
+  416 | { #name, (thread), (priority), (instances), (stacksz), NULL, NULL }
+      |          ^
+../Core/Src/main.c:126:3: note: in expansion of macro 'osThreadDef'
+  126 |   osThreadDef(vTaskReadSensor,"ReadSensor",osPriorityNormal,0,128);
+      |   ^~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h:416:10: note: (near initialization for 'os_thread_def_vTaskReadSensor.pthread')
+  416 | { #name, (thread), (priority), (instances), (stacksz), NULL, NULL }
+      |          ^
+../Core/Src/main.c:126:3: note: in expansion of macro 'osThreadDef'
+  126 |   osThreadDef(vTaskReadSensor,"ReadSensor",osPriorityNormal,0,128);
+      |   ^~~~~~~~~~~
+../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h:415:21: warning: unused variable 'os_thread_def_vTaskReadSensor' [-Wunused-variable]
+  415 | const osThreadDef_t os_thread_def_##name = \
+      |                     ^~~~~~~~~~~~~~
+../Core/Src/main.c:126:3: note: in expansion of macro 'osThreadDef'
+  126 |   osThreadDef(vTaskReadSensor,"ReadSensor",osPriorityNormal,0,128);
+      |   ^~~~~~~~~~~
+At top level:
+../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h:415:21: warning: 'os_thread_def_vTaskReadSensor' defined but not used [-Wunused-const-variable=]
+  415 | const osThreadDef_t os_thread_def_##name = \
+      |                     ^~~~~~~~~~~~~~
+../Core/Src/main.c:126:3: note: in expansion of macro 'osThreadDef'
+  126 |   osThreadDef(vTaskReadSensor,"ReadSensor",osPriorityNormal,0,128);
+      |   ^~~~~~~~~~~
+arm-none-eabi-gcc -o "new.elf" @"objects.list"   -mcpu=cortex-m7 -T"C:\Users\asus\STM32CubeIDE\workspace_1.14.1\new\STM32F746NGHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="new.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+C:/ST/STM32CubeIDE_1.14.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/bin/ld.exe: ./Core/Src/main.o: in function `main':
+C:/Users/asus/STM32CubeIDE/workspace_1.14.1/new/Debug/../Core/Src/main.c:146: undefined reference to `vTaskMain'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:68: new.elf] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+14:24:49 Build Failed. 2 errors, 3 warnings. (took 955ms)
+

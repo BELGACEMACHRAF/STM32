@@ -1,0 +1,139 @@
+2024-04-02 11:34:30,489 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:34:30,567 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:34:33,296 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:34:33,312 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:34:59,025 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:36:49,307 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,27,545x304,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:37:22,059 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:37:24,861 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:39:24,270 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:39:24,286 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:39:36,418 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 563128584 Bytes (807403520)
+2024-04-02 11:43:06,879 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:44:12,780 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:44:43,948 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:44:46,367 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:44:54,246 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:45:24,838 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:45:24,900 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:46:01,438 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 701965240 Bytes (807403520)
+2024-04-02 11:46:03,734 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 299576424 Bytes (807403520)
+2024-04-02 11:46:04,193 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-02 11:46:04,193 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-04-02 11:46:04,193 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-02 11:46:04,193 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-02 11:46:04,193 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-02 11:46:04,197 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-04-02 11:46:04,354 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\license.tmp_save
+2024-04-02 11:46:04,486 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\license.tmp
+2024-04-02 11:46:04,554 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\gpio.c_save
+2024-04-02 11:46:04,679 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\gpio.c
+2024-04-02 11:46:04,717 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\gpio.h_save
+2024-04-02 11:46:04,816 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\gpio.h
+2024-04-02 11:46:04,941 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\tim.c_save
+2024-04-02 11:46:05,077 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\tim.c
+2024-04-02 11:46:05,106 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\tim.h_save
+2024-04-02 11:46:05,191 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\tim.h
+2024-04-02 11:46:05,226 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_it.c_save
+2024-04-02 11:46:05,419 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_it.c
+2024-04-02 11:46:05,447 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_it.h_save
+2024-04-02 11:46:05,546 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_it.h
+2024-04-02 11:46:05,586 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-02 11:46:05,671 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_hal_msp.c
+2024-04-02 11:46:05,686 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\system.tmp_save
+2024-04-02 11:46:05,746 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\system.tmp
+2024-04-02 11:46:05,781 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-02 11:46:05,887 [INFO] CodeEngine:335 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-02 11:46:05,946 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\main.h_save
+2024-04-02 11:46:06,060 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\main.h
+2024-04-02 11:46:06,085 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\main.c_save
+2024-04-02 11:46:06,205 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\main.c
+2024-04-02 11:46:06,430 [INFO] ProjectBuilder:3163 - Time for Copy HAL[2] : 1mS.
+2024-04-02 11:46:06,439 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-04-02 11:46:06,578 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-04-02 11:46:07,765 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1327mS.
+2024-04-02 11:46:07,766 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-04-02 11:46:07,768 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-04-02 11:48:21,182 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,541x79,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:48:23,331 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:48:24,546 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,27,541x304,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:48:26,304 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:48:27,378 [INFO] Gpio:277 - dependency for GPIO []
+2024-04-02 11:48:36,175 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 11:48:41,439 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 651501680 Bytes (916455424)
+2024-04-02 11:48:43,698 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 305387104 Bytes (916455424)
+2024-04-02 11:48:43,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-02 11:48:43,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-04-02 11:48:43,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-02 11:48:43,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-02 11:48:43,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-02 11:48:43,824 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-04-02 11:48:43,890 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\license.tmp_save
+2024-04-02 11:48:43,996 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\license.tmp
+2024-04-02 11:48:44,029 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\gpio.c_save
+2024-04-02 11:48:44,148 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\gpio.c
+2024-04-02 11:48:44,156 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\gpio.h_save
+2024-04-02 11:48:44,222 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\gpio.h
+2024-04-02 11:48:44,276 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\tim.c_save
+2024-04-02 11:48:44,357 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\tim.c
+2024-04-02 11:48:44,362 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\tim.h_save
+2024-04-02 11:48:44,416 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\tim.h
+2024-04-02 11:48:44,452 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_it.c_save
+2024-04-02 11:48:44,577 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_it.c
+2024-04-02 11:48:44,584 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_it.h_save
+2024-04-02 11:48:44,651 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_it.h
+2024-04-02 11:48:44,685 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-02 11:48:44,760 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_hal_msp.c
+2024-04-02 11:48:44,764 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\system.tmp_save
+2024-04-02 11:48:44,815 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\system.tmp
+2024-04-02 11:48:44,853 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-02 11:48:44,952 [INFO] CodeEngine:335 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-02 11:48:44,996 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\main.h_save
+2024-04-02 11:48:45,131 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\main.h
+2024-04-02 11:48:45,157 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\main.c_save
+2024-04-02 11:48:45,237 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\main.c
+2024-04-02 11:48:45,371 [INFO] ProjectBuilder:3163 - Time for Copy HAL[2] : 1mS.
+2024-04-02 11:48:45,374 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-04-02 11:48:45,440 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-04-02 11:48:46,196 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 821mS.
+2024-04-02 11:48:46,196 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-04-02 11:48:46,199 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-04-02 14:24:25,811 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-02 14:24:52,229 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 596911152 Bytes (916455424)
+2024-04-02 14:24:57,038 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 312697272 Bytes (916455424)
+2024-04-02 14:24:57,169 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-02 14:24:57,169 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-04-02 14:24:57,169 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-02 14:24:57,169 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-02 14:24:57,169 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-02 14:24:57,170 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-04-02 14:24:57,262 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\license.tmp_save
+2024-04-02 14:24:57,408 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\license.tmp
+2024-04-02 14:24:57,460 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\gpio.c_save
+2024-04-02 14:24:57,581 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\gpio.c
+2024-04-02 14:24:57,601 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\gpio.h_save
+2024-04-02 14:24:57,691 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\gpio.h
+2024-04-02 14:24:57,765 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\tim.c_save
+2024-04-02 14:24:57,908 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\tim.c
+2024-04-02 14:24:57,936 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\tim.h_save
+2024-04-02 14:24:58,043 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\tim.h
+2024-04-02 14:24:58,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_it.c_save
+2024-04-02 14:24:58,297 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_it.c
+2024-04-02 14:24:58,318 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_it.h_save
+2024-04-02 14:24:58,397 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_it.h
+2024-04-02 14:24:58,428 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-02 14:24:58,536 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\stm32f4xx_hal_msp.c
+2024-04-02 14:24:58,541 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\system.tmp_save
+2024-04-02 14:24:58,602 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\MXTmpFiles\system.tmp
+2024-04-02 14:24:58,624 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-02 14:24:58,739 [INFO] CodeEngine:335 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-02 14:24:58,790 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\main.h_save
+2024-04-02 14:24:58,896 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Inc\main.h
+2024-04-02 14:24:58,922 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\main.c_save
+2024-04-02 14:24:59,021 [INFO] CodeEngine:279 - Generated code: C:\Users\asus\STM32CubeIDE\workspace_1.14.1\Encodeur\Core\Src\main.c
+2024-04-02 14:24:59,184 [INFO] ProjectBuilder:3163 - Time for Copy HAL[2] : 0mS.
+2024-04-02 14:24:59,188 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-04-02 14:24:59,266 [INFO] ConfigFileManager:1503 - The Die is : DIE431
+2024-04-02 14:25:00,188 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1000mS.
+2024-04-02 14:25:00,188 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-04-02 14:25:00,192 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.

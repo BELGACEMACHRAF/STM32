@@ -1,0 +1,456 @@
+2024-03-14 00:21:40,397 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 00:21:40,490 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 00:21:40,411 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 00:21:40,490 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 00:21:40,491 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 00:21:40,491 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 00:21:40,500 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 00:21:40,500 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 00:21:40,500 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 00:21:40,540 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 00:21:40,551 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 00:21:40,552 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 00:21:40,554 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 00:21:40,564 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 00:21:40,606 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-14 00:21:40,610 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-14 00:21:40,625 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-14 00:21:40,647 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 00:21:40,648 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 00:21:40,651 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 00:21:40,651 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 01:29:57,723 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 01:29:57,732 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 01:29:57,763 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 01:29:57,787 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 01:29:57,789 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 01:29:57,789 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 01:29:57,792 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 01:29:57,792 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 01:29:57,792 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 01:29:57,805 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 01:29:57,807 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 01:29:57,807 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 01:29:57,817 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 01:29:57,823 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 01:29:58,612 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian SSO
+2024-03-14 01:29:58,617 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-14 01:29:58,628 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian SSO
+2024-03-14 01:30:03,487 [INFO] WebAppUi:887 - Path where api_config.json is located C:\Users\asus\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2024-03-14 01:30:03,491 [INFO] WebAppUi:888 - Setting api config in window object
+2024-03-14 01:30:03,575 [INFO] WebAppUi:896 - Path where cad_preferences.json is located C:\Users\asus/.stm32cubeide/
+2024-03-14 01:30:03,575 [INFO] WebAppUi:897 - Setting consent info in window object
+2024-03-14 01:30:04,113 [INFO] WebAppUi:1056 - Web application message: THREE.WebGLRenderer 101
+2024-03-14 09:05:44,644 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:05:44,652 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:05:44,681 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 09:05:44,688 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 09:05:44,689 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 09:05:44,697 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 09:05:44,697 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 09:05:44,698 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 09:05:44,718 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 09:05:44,723 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 09:05:44,723 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 09:05:45,146 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 09:05:45,149 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 09:06:21,831 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:06:21,832 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:06:21,833 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 09:06:21,833 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 09:06:21,833 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 09:06:21,833 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 09:06:21,833 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 09:06:21,833 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 09:06:21,838 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 09:06:21,841 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 09:06:21,841 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 09:06:21,843 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 09:06:22,176 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 09:06:22,177 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 09:10:51,146 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:10:51,146 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:10:51,148 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 09:10:51,148 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 09:10:51,148 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 09:10:51,148 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 09:10:51,148 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 09:10:51,148 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 09:10:51,150 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 09:10:51,151 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 09:10:51,151 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 09:10:51,151 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 09:10:52,297 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 09:10:52,298 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 09:11:43,458 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:11:43,458 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:11:43,459 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 09:11:43,459 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 09:11:43,459 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 09:11:43,459 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 09:11:43,459 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 09:11:43,459 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 09:11:43,461 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 09:11:43,464 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 09:11:43,464 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 09:11:43,465 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 09:11:45,644 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 09:11:45,644 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 09:54:02,293 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:54:02,295 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:54:02,303 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 09:54:02,303 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 09:54:02,304 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 09:54:02,304 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 09:54:02,304 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 09:54:02,304 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 09:54:02,310 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 09:54:02,313 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 09:54:02,313 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 09:54:02,314 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 09:54:04,364 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 09:54:04,365 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 09:56:52,179 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:56:52,179 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 09:56:52,180 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 09:56:52,180 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 09:56:52,180 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 09:56:52,180 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 09:56:52,180 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 09:56:52,180 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 09:56:52,181 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 09:56:52,183 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 09:56:52,184 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 09:56:52,184 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 09:56:54,254 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 09:56:54,254 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 10:01:01,622 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:01:01,622 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:01:01,625 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 10:01:01,625 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 10:01:01,625 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 10:01:01,626 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 10:01:01,626 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 10:01:01,626 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 10:01:01,628 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 10:01:01,629 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 10:01:01,630 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 10:01:01,630 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 10:01:03,858 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 10:01:03,860 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 10:01:41,331 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:01:41,331 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:01:41,332 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 10:01:41,332 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 10:01:41,332 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 10:01:41,332 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 10:01:41,332 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 10:01:41,332 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 10:01:41,334 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 10:01:41,335 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 10:01:41,336 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 10:01:41,336 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 10:01:43,426 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 10:01:43,427 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 10:02:08,955 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:02:08,955 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:02:08,957 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 10:02:08,957 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 10:02:08,957 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 10:02:08,957 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 10:02:08,957 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 10:02:08,957 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 10:02:08,959 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 10:02:08,960 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 10:02:08,960 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 10:02:08,960 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 10:02:11,360 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 10:02:11,360 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 10:46:18,069 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:46:18,091 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 10:46:18,105 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 10:46:18,106 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 10:46:18,106 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 10:46:18,107 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 10:46:18,107 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 10:46:18,107 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 10:46:18,113 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 10:46:18,119 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 10:46:18,119 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 10:46:18,121 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 10:46:20,353 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 10:46:20,355 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 11:15:13,163 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:15:13,164 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:15:13,166 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 11:15:13,166 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 11:15:13,166 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 11:15:13,166 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 11:15:13,166 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 11:15:13,166 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 11:15:13,169 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 11:15:13,170 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 11:15:13,170 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 11:15:13,171 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 11:15:15,358 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 11:15:15,358 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 11:18:24,391 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:18:24,393 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:18:24,394 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 11:18:24,395 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 11:18:24,395 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 11:18:24,395 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 11:18:24,395 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 11:18:24,395 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 11:18:24,398 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 11:18:24,400 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 11:18:24,400 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 11:18:24,401 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 11:18:24,410 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 11:18:24,412 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 11:19:01,740 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:19:01,741 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:19:01,742 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 11:19:01,742 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 11:19:01,742 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 11:19:01,742 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 11:19:01,742 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 11:19:01,742 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 11:19:01,746 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 11:19:01,747 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 11:19:01,747 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 11:19:01,748 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 11:19:01,764 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 11:19:01,765 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 11:41:24,951 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:41:24,952 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:41:24,953 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 11:41:24,953 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 11:41:24,953 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 11:41:24,953 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 11:41:24,953 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 11:41:24,953 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 11:41:24,954 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 11:41:24,955 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 11:41:24,955 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 11:41:24,956 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 11:41:26,033 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 11:41:26,034 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 11:58:02,567 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:58:02,568 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 11:58:02,570 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 11:58:02,571 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 11:58:02,571 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 11:58:02,571 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 11:58:02,571 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 11:58:02,571 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 11:58:02,575 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 11:58:02,580 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 11:58:02,580 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 11:58:02,581 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 11:58:05,234 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 11:58:05,235 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 12:16:34,901 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:16:34,902 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:16:34,902 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 12:16:34,902 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 12:16:34,902 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 12:16:34,903 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 12:16:34,903 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 12:16:34,903 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 12:16:34,905 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 12:16:34,906 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 12:16:34,906 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 12:16:34,907 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 12:16:36,768 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 12:16:36,768 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 12:16:41,580 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:16:41,580 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:16:41,581 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 12:16:41,581 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 12:16:41,582 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 12:16:41,582 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 12:16:41,582 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 12:16:41,582 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 12:16:41,584 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 12:16:41,586 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 12:16:41,586 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 12:16:41,586 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 12:16:43,863 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 12:16:43,864 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 12:51:16,954 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:51:16,960 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:51:16,975 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 12:51:16,979 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 12:51:16,979 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 12:51:16,980 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 12:51:16,980 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 12:51:16,980 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 12:51:16,991 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 12:51:16,996 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 12:51:16,996 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 12:51:17,000 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 12:51:19,391 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 12:51:19,392 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 12:56:23,871 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:56:23,872 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:56:23,872 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 12:56:23,873 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 12:56:23,873 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 12:56:23,873 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 12:56:23,873 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 12:56:23,873 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 12:56:23,876 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 12:56:23,877 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 12:56:23,877 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 12:56:23,877 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 12:56:34,838 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 12:56:34,838 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 12:57:16,384 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:57:16,385 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:57:16,386 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 12:57:16,386 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 12:57:16,387 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 12:57:16,387 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 12:57:16,387 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 12:57:16,387 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 12:57:16,388 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 12:57:16,390 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 12:57:16,390 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 12:57:16,390 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 12:57:18,547 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 12:57:18,548 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 12:57:45,889 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:57:45,890 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 12:57:45,892 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 12:57:45,893 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 12:57:45,893 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 12:57:45,893 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 12:57:45,893 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 12:57:45,893 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 12:57:45,895 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 12:57:45,895 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 12:57:45,896 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 12:57:45,896 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 12:57:47,926 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 12:57:47,929 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 13:40:13,296 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:40:13,298 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:40:13,301 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 13:40:13,301 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 13:40:13,301 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 13:40:13,303 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 13:40:13,303 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 13:40:13,303 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 13:40:13,306 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 13:40:13,309 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 13:40:13,309 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 13:40:13,310 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 13:40:14,488 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 13:40:14,488 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 13:41:31,183 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:41:31,184 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:41:31,184 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 13:41:31,185 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 13:41:31,185 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 13:41:31,185 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 13:41:31,185 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 13:41:31,185 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 13:41:31,187 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 13:41:31,189 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 13:41:31,189 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 13:41:31,190 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 13:41:33,368 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 13:41:33,368 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 13:42:33,872 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:42:33,872 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:42:33,873 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 13:42:33,873 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 13:42:33,873 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 13:42:33,873 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 13:42:33,873 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 13:42:33,873 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 13:42:33,875 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 13:42:33,876 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 13:42:33,876 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 13:42:33,876 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 13:42:37,245 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 13:42:37,245 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 13:43:36,896 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:43:36,900 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 13:43:36,902 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 13:43:36,903 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 13:43:36,903 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 13:43:36,903 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 13:43:36,903 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 13:43:36,903 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 13:43:36,905 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 13:43:36,906 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 13:43:36,906 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 13:43:36,906 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 13:43:40,034 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 13:43:40,035 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 13:56:30,701 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 13:56:30,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 13:56:30,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 13:56:30,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 13:56:30,829 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 17:08:58,427 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 17:08:58,444 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 17:08:58,536 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 17:08:58,553 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 17:08:58,553 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 17:08:58,561 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 17:08:58,561 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 17:08:58,561 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 17:08:58,594 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 17:08:58,611 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 17:08:58,611 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 17:08:58,620 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 17:08:59,527 [INFO] WebAppUi:1056 - Web application message: Token has expired
+2024-03-14 17:08:59,537 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 17:09:00,353 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-14 17:09:00,361 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 17:09:00,420 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-14 17:09:01,662 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 17:09:01,664 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available
+2024-03-14 19:33:18,261 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 19:33:18,261 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 19:33:18,273 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 19:33:18,273 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 19:33:18,273 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 19:33:18,273 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 19:33:18,273 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 19:33:18,273 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 19:33:18,273 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 19:33:18,273 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 19:33:18,281 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 19:33:18,281 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 19:33:18,281 [WARN] CADModel:210 - No chromium set, cannot inject java data in window object 
+2024-03-14 19:33:18,281 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 19:33:19,306 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian SSO
+2024-03-14 19:33:19,311 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-03-14 19:33:19,316 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian SSO
+2024-03-14 19:33:29,740 [INFO] WebAppUi:887 - Path where api_config.json is located C:\Users\asus\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2024-03-14 19:33:29,746 [INFO] WebAppUi:888 - Setting api config in window object
+2024-03-14 19:33:29,832 [INFO] WebAppUi:896 - Path where cad_preferences.json is located C:\Users\asus/.stm32cubeide/
+2024-03-14 19:33:29,832 [INFO] WebAppUi:897 - Setting consent info in window object
+2024-03-14 19:33:30,251 [INFO] WebAppUi:1056 - Web application message: THREE.WebGLRenderer 101
+2024-03-14 20:46:21,013 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 20:46:21,101 [INFO] WebAppUi:1056 - Web application message: Reloading CAD
+2024-03-14 20:46:21,104 [INFO] CADModel:198 - CPN selected (Project mode): STM32F746NGH6
+2024-03-14 20:46:21,105 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-03-14 20:46:21,105 [INFO] CADModel:203 - rpn retrievedSTM32F746NG
+2024-03-14 20:46:21,106 [INFO] WebAppUi:613 - RPN selected STM32F746NG
+2024-03-14 20:46:21,106 [INFO] WebAppUi:614 - RefName selected STM32F746NGHx
+2024-03-14 20:46:21,106 [INFO] WebAppUi:615 - CPN selected STM32F746NGH6
+2024-03-14 20:46:21,120 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32F746NGH6
+2024-03-14 20:46:21,125 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-03-14 20:46:21,126 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32F746NGH6
+2024-03-14 20:46:22,606 [INFO] WebAppUi:1056 - Web application message: Token has expired
+2024-03-14 20:46:22,616 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 20:46:23,134 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-14 20:46:23,145 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-03-14 20:46:23,398 [INFO] WebAppUi:1056 - Web application message: SSO unavailable because of TypeError: Failed to fetch
+2024-03-14 20:46:23,436 [INFO] WebAppUi:1056 - Web application message: No network connection
+2024-03-14 20:46:23,440 [INFO] WebAppUi:1056 - Web application message: Cannot get data because API not available

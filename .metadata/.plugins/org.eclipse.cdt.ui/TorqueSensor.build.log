@@ -1,0 +1,10 @@
+15:54:41 **** Incremental Build of configuration Debug for project TorqueSensor ****
+make -j8 all 
+arm-none-eabi-size  TorqueSensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30684	    476	   1996	  33156	   8184	TorqueSensor.elf
+Finished building: default.size.stdout
+ 
+
+15:54:41 Build Finished. 0 errors, 0 warnings. (took 334ms)
+
